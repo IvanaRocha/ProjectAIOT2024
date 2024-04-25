@@ -11,7 +11,7 @@
 - Firmada por el empresario o docente ageno a la UTNG, agradeciendo la contribución de la UTNG.
 - Hoja membretada (Logo de la empresa, dirección y contacto)
 
-## Lista del Hardware utilizado
+## Lista del Hardware utilizado+
 | Id | Componente | Descripción | Imagen | Cantidad | Costo total |
 |----|------------|-------------|--------|----------|-------------|
 |    |            |             |        |          |             |
